@@ -1,0 +1,9 @@
+{
+  "name": "smart-belt-immunity",
+  "version": "0.1.0",
+  "title": "Smart Belt Immunity",
+  "author": "tjson",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "This mod modifies the Belt Immunity Equipment. It turns off the immunity to belts when you're moving in the same direction as the belt is."
+}
