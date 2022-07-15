@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2022-07-16
+  Info:
+    - Remade the functionality adding new equipment that will do the original functionality while keeping the base game's belt immunity.
+    - Appended the recipe to unlock for the new equipment onto the original technology for belt immunity.
+  Bugfixes:
+    - Fixed editor mode crash with the revamped smart belt immunity.
+  Locale:
+    - English is available.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2022-04-13
+  Bugfixes:
+    - Fixed non-modular armor causing crashes.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2022-04-5
+  Info:
+    - Initial release.
